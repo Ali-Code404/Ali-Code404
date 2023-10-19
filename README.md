@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Taban Soleymani
+## I'm Omar Alí
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
 <table>
   <tr>
@@ -84,9 +84,3 @@
    </td>
   </tr>
 </table>
-
-------
-
-Credit: [Taabannn](https://github.com/Taabannn)
-
-Last Edited on: 07/08/2022
